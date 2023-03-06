@@ -42,3 +42,7 @@ Yolo training takes 3 to 4 minutes for 24 epochs, but Faster RCNN (detectron2) t
 ### Size:
 Bigger RCNN model size: 805.5 Mb
 The Yolov8 model size: 21.53 Mb
+
+
+
+# LINK TO THE COLAB: [Link](https://colab.research.google.com/drive/1xPn9YwrgVY1zSOBuradahRpXz_IvHubZ#scrollTo=VBGJm5QNmgxq)
