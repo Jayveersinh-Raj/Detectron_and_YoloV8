@@ -23,3 +23,22 @@ Glasses image:
 <img width="958" alt="image" src="https://user-images.githubusercontent.com/69463767/223181521-925eab2b-f2be-4899-815a-7c95e38913c8.png">
 
 
+# 3. A Faster CNN using detectron2
+<img width="620" alt="image" src="https://user-images.githubusercontent.com/69463767/223225085-7d9c0cc6-2c86-4ea8-aae1-02814ff0a261.png">
+
+
+# 4. Yolov8 trained for 20 epochs
+<img width="536" alt="image" src="https://user-images.githubusercontent.com/69463767/223225299-ce15866f-08b3-4630-9736-86e5bbb6fc74.png">
+
+# 5. Evluation and comparison
+### Mean Average Precision
+- Faster RCNN: ~0.01%
+- Yolov8: ~0.13%
+
+### Speed:
+Yolo is more speedier despite its size, and its speed has a number of advantages.
+Yolo training takes 3 to 4 minutes for 24 epochs, but Faster RCNN (detectron2) takes more than an hour.
+
+### Size:
+Bigger RCNN model size: 805.5 Mb
+The Yolov8 model size: 21.53 Mb
