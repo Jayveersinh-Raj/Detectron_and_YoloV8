@@ -46,8 +46,6 @@ Glasses image:
 <img width="294" alt="image" src="https://user-images.githubusercontent.com/69463767/223227446-d356d4b8-8ec1-4528-98de-34a0d4b0baa7.png">
 
 
-- P curve
-
 
 
 # 5. Evaluation and comparison
