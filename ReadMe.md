@@ -30,7 +30,27 @@ Glasses image:
 # 4. Yolov8 trained for 20 epochs
 <img width="536" alt="image" src="https://user-images.githubusercontent.com/69463767/223225299-ce15866f-08b3-4630-9736-86e5bbb6fc74.png">
 
-# 5. Evluation and comparison
+- confusion matrix
+<img width="255" alt="image" src="https://user-images.githubusercontent.com/69463767/223226969-3968da55-f3da-4813-ac21-16589d2d28cd.png">
+
+- F1 curve
+<img width="298" alt="image" src="https://user-images.githubusercontent.com/69463767/223227062-e4bf5401-c43e-40b4-8082-15ca279360dc.png">
+
+- PR curve
+<img width="287" alt="image" src="https://user-images.githubusercontent.com/69463767/223227274-6336855b-41f4-4d25-8d5e-dbd8905cd3c8.png">
+
+- P curve
+<img width="291" alt="image" src="https://user-images.githubusercontent.com/69463767/223227362-23cc644a-14fc-4fee-b219-a1fe8c4b7844.png">
+
+- R curve
+<img width="294" alt="image" src="https://user-images.githubusercontent.com/69463767/223227446-d356d4b8-8ec1-4528-98de-34a0d4b0baa7.png">
+
+
+- P curve
+
+
+
+# 5. Evaluation and comparison
 ### Mean Average Precision
 - Faster RCNN: ~0.01%
 - Yolov8: ~0.13%
@@ -40,8 +60,8 @@ Yolo is more speedier despite its size, and its speed has a number of advantages
 Yolo training takes 3 to 4 minutes for 24 epochs, but Faster RCNN (detectron2) takes more than an hour.
 
 ### Size:
-Bigger RCNN model size: 805.5 Mb
-The Yolov8 model size: 21.53 Mb
+- Bigger RCNN model size: 805.5 Mb
+- The Yolov8 model size: 21.53 Mb
 
 
 
